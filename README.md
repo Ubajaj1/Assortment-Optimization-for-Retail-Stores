@@ -1,1 +1,3 @@
 # Assortment-Optimization-for-Retail-Stores
+Assortment planning is one of the most important & challenging applications of analytics in retail. Often retailers use a 2-stage approach where in the 1st stage they run thousands of prediction experiments to identify what best captures expected demand. In the 2nd stage, they decide which combination of products will lead to the best sales for a particular store - a classic knapsack-type problem. This work focuses specifically on combinatorial assortment optimization (or 2nd stage) & how the hierarchical nature of the decisions & analysis that needs to occur can lead to drastically different outcomes in-store profitability. 
+
